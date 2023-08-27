@@ -1,0 +1,34 @@
+.principalBox {
+  display: flex;
+  justify-content: center;
+}
+
+#BlueBox {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 2px;
+}
+#RedBox {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 2px;
+}
+#GreenBox {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  margin: 2px;
+}
+#YellowBox {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  margin: 2px;
+}
+#key {
+  width: 200px;
+  height: 200px;
+  border: solid 2px black;
+}
